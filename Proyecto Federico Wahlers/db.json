@@ -1,0 +1,76 @@
+{
+  "platos": [
+    {
+      "id": 1,
+      "nombre": "Pizza chica",
+      "precio": 30,
+      "categoria": 1
+    },
+    {
+      "id": 2,
+      "nombre": "Pizza mediana",
+      "precio": 50,
+      "categoria": 1
+    },
+    {
+      "id": 3,
+      "nombre": "Lemon Pie",
+      "precio": 30,
+      "categoria": 3
+    },
+    {
+      "id": 4,
+      "nombre": "Bizcochuelo",
+      "precio": 30,
+      "categoria": 3
+    },
+    {
+      "id": 5,
+      "nombre": "Jugo de naranja",
+      "precio": 15,
+      "categoria": 2
+    },
+    {
+      "id": 6,
+      "nombre": "Pizza grande",
+      "precio": 70,
+      "categoria": 1
+    },
+    {
+      "id": 7,
+      "nombre": "Bife de chorizo",
+      "precio": 100,
+      "categoria": 1
+    },
+    {
+      "id": 8,
+      "nombre": "Coca Cola",
+      "precio": 15,
+      "categoria": 2
+    },
+    {
+      "id": 9,
+      "nombre": "Cerveza Brahma",
+      "precio": 40,
+      "categoria": 2
+    },
+    {
+      "id": 10,
+      "nombre": "Tostado J&Q",
+      "precio": 30,
+      "categoria": 3
+    },
+    {
+      "id": 11,
+      "nombre": "Café",
+      "precio": 20,
+      "categoria": 2
+    },
+    {
+      "id": 12,
+      "nombre": "Capuccino",
+      "precio": 40,
+      "categoria": 2
+    }
+  ]
+}
